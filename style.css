@@ -1,0 +1,74 @@
+body{
+    
+    font-family:fantasy;
+    background-color:black;
+}
+
+header {
+
+     font-family: sans-serif;
+     color: white;
+     border: 5px solid rgb(255, 0, 0);
+     background-color: black;
+     padding: 10px;
+
+ }
+
+ header a {
+
+     border: 3px dotted rgb(21, 255, 0);
+     text-decoration: none;
+     color: rgb(0, 255, 85);
+     margin-left: 100px;
+     padding:5px;
+
+
+
+ }
+
+ h1 {
+
+     text-align: center;
+     color: rgb(236, 0, 0);
+
+ }
+
+ footer {
+
+     background-color: rgb(0, 0, 0);
+     text-align: left;
+     font-size: 20px;
+}
+
+ footer p{
+
+     background-color: rgb(19, 221, 19);
+     color:black;
+ }
+
+ nav a{
+
+    text-decoration:none;
+    color:rgb(0, 191, 255);
+    border:2px solid rgb(0, 191, 255);
+    margin: 10px;
+    padding: 5px;
+    text-align:center;
+
+
+ } 
+
+ p{
+
+    color:white;
+ }
+
+ .products{
+
+    border:3px solid rgb(255, 111, 0);
+    color:orange;
+    text-align: left;
+    padding:10px;
+
+
+ }
